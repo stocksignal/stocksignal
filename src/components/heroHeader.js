@@ -1,5 +1,5 @@
 import React from "react"
-import { StaticQuery, graphql, Link } from "gatsby"
+import { StaticQuery, graphql } from "gatsby"
 export default () => (
   <StaticQuery
     query={graphql`
@@ -21,7 +21,7 @@ export default () => (
           className="primary-content" 
           dangerouslySetInnerHTML={{ __html: data.site.siteMetadata.home.description}}
         />
-        <Link to='/contact' className="button -primary">Go to Homepage &rarr;</Link>
+        <a href='https://stocksignal.github.io' className="button -primary">Go to Homepage &rarr;</a>
       </div>
     )}
   />
