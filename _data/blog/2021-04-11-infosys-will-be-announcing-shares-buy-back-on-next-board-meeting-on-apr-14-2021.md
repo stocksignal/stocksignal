@@ -8,6 +8,7 @@ title: >-
 metaDescription: >-
   Infosys Limited shares buy back will be announced on the next board meeting on
   april 14, 2021.
+thumbnail: /assets/Dayflow - Teamwork.png
 ---
 ![Infosys buyback](/assets/Screenshot_20210411-184311_Drive.jpg "Infosys")
 
