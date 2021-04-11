@@ -2,7 +2,7 @@
 template: BlogPost
 path: /websites-trader-must-know
 date: 2021-04-10T16:34:00.000Z
-title: Best Websites and tools every Trader must know in 2021
+title: Free and Best Websites and tools every Trader must know in 2021
 metaDescription: >-
   Best websites and tools for traders. Websites which are helpful for the
   traders to analyze and study stock market.
